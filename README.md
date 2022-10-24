@@ -1,5 +1,5 @@
-# OpenGL-2D-Racing-Game (unfinished)
-Simple 2D Racing game made with OpenGL, C++ and Win32, includes collisions, a small track, and a car for the player to use arrow keys to control.
+# OpenGL-2D-Racing-Game 
+(unfinished) Simple 2D Racing game made with OpenGL, C++ and Win32. Demonstrating collision detection, a small track, and a car for the player to use arrow keys to control.
 
 To launch: 
 Use Microsoft Visual Studio 2019
